@@ -1,0 +1,13 @@
+.main-details {
+    width: 100%;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.main-details img {
+    margin: 2rem;
+    height: 180px;
+}

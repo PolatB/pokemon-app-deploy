@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    margin: auto;
+    padding-top: auto;
+}
+
+.poke-list {
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 2rem;
+    justify-content: space-evenly;
+}
+
+
+.pagination-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+.MuiPaginationItem-page.Mui-selected {
+    color: white;
+    background-color: #b74555 !important;
+}
+
